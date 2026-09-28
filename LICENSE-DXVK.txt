@@ -1,6 +1,6 @@
 Ambre Pro contient une version modifiée de DXVK, distribuée sous forme compilée.
 
-DXVK — Copyright (c) 2017 Philip Rebohle, Copyright (c) 2019 Joshua Ashton (et contributeurs)
+DXVK — Copyright (c) 2017-2021 Philip Rebohle, Copyright (c) 2019-2021 Joshua Ashton (et contributeurs)
 
 zlib/libpng license
 
